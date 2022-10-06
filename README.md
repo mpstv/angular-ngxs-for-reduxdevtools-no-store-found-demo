@@ -9,5 +9,3 @@ For run application clone this repository and run:
 then run:
 
 `npm run start`
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.13.
