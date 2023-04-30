@@ -4,8 +4,8 @@ This repository was created to demonstrate https://github.com/zalmoxisus/redux-d
 
 For run application clone this repository and run:
 
-`npm i`
+`npm install`
 
-then run:
+then to run the application do:
 
 `npm run start`
